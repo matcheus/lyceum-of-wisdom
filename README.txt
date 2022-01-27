@@ -1701,4 +1701,19 @@ Questão 422
 Qual dos seguintes é o primeiro parque nacional do mundo?
 R: Yellowstone National Park
 
+Questão 423
+A civilização fenícia se originou em que parte do mundo?
+R: No Mediterraneo Oriental
+
+Questão 424
+O lider militar Carlos Martel NÃO era conhecido por qual dos seguintes feitos?
+R: Liderança de unidades de cavalaria
+
+Questão 425
+Quem fundou a "Armada Espanhola"?
+R: Filipe II
+
+Questão 426
+Onde surgiu o reggae?
+R: Jamaica
 .
